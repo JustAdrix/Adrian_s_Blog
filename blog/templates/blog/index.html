@@ -1,0 +1,40 @@
+{% extends "base.html" %} 
+{% load static %}
+
+{% block title %}DIscutii si Ideei{% endblock %}
+
+{% block css_files %}
+  <link rel="stylesheet" href="{% static "blog/post.css" %}" />
+  <link rel="stylesheet" href="{% static "blog/index.css" %}" />
+{% endblock %}
+
+{% block content %}
+<section id="welcome">
+  <header>
+    <img src="{% static "blog/images/adi2.jpeg" %}" alt="owner-picture" />
+    <h2>Adrian`s BLOG</h2>
+  </header>
+  <p>Salut, sunt Adrian si imi place sa discut cu voi </p>
+</section>
+
+<section id="latest-posts">
+  <h2>Ultimele Ganduri</h2>
+
+  <ul>
+    {% for post in posts %}
+      {% include "blog/includes/post.html" %}
+    {% endfor %}
+  </ul>
+</section>
+
+<section id="about">
+  <h2>Ce fac!?</h2>
+  <p>
+    Imi place sa "ma joc" cu limbajul de programare  pentru a face lucruri interesante. Tu, ce faci?
+  </p>
+  <p>
+    "În lumea noastră, discuțiile sunt căile care deschid ușile spre noi idei și perspective.
+    Descoperă, împarte și explorează împreună universul vast al gândurilor și ideilor creative."
+  </p>
+</section>
+{% endblock %}
