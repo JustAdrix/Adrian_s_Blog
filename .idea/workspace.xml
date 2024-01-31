@@ -4,29 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="355605a5-2bef-4db5-8438-ccf105eb97bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../.idea/workspace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../04_07_23/.idea/04_07_23.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../AdianHolom/.idea/AdianHolom.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BDD_FLIP_RO/.idea/BDD_FLIP_RO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BDD_FLIP_RO/BDD_FLIP_RO/.idea/BDD_FLIP_RO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BDD_FLIP_ro_BACKUP/.idea/BDD_Flip_ro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../CursMagazinTest/.idea/CursMagazinTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../IT_Factory/.idea/IT_Factory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../IT_Factory/Curs_02_operatori_slising/.idea/Curs_02_operatori_slising.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ProiectAdrianHolom/.idea/ProiectAdrianHolom.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../pythonProject/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../pythonProject2/.idea/pythonProject2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../pythonProject2/pythonProject/.idea/pythonProject.iml" afterDir="false" />
-    </list>
+    <list default="true" id="355605a5-2bef-4db5-8438-ccf105eb97bf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,24 +20,24 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2bHMMntKrceYv5Rr7wSnozBD8hX" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/workspace/Udemy/Python/Adrian_s_Blog&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/workspace/Proiecte finale/Adrian_s_Blog",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\workspace\Udemy\My_Blog\blog\static\blog\images" />
@@ -82,5 +67,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
   </component>
 </project>
